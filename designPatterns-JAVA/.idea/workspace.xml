@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51c58602-2bda-4da3-85ee-26e08f500f4d" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPatterns-JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designPatterns-JAVA/Facade/Facade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designPatterns-JAVA/Facade/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designPatterns-JAVA/Singleton/SingletonEager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designPatterns-JAVA/Singleton/SingletonLazy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designPatterns-JAVA/Singleton/SingletonLazyHolder$instanceHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designPatterns-JAVA/Singleton/SingletonLazyHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designPatterns-JAVA/Singleton/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designPatterns-JAVA/Strategy/Comportamento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designPatterns-JAVA/Strategy/ComportamentoAgressivo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designPatterns-JAVA/Strategy/ComportamentoDefensivo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designPatterns-JAVA/Strategy/ComportamentoNormal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designPatterns-JAVA/Strategy/Robo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designPatterns-JAVA/Strategy/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designPatterns-JAVA/subsistema1/crm/CrmService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designPatterns-JAVA/subsistema2/cep/CepApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facade/Facade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facade/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/SingletonEager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/SingletonLazy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/SingletonLazyHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategy/Comportamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategy/ComportamentoAgressivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategy/ComportamentoDefensivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategy/ComportamentoNormal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategy/Robo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategy/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/subsistema1/crm/CrmService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/subsistema2/crm/CepApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../42SP_Basecamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../42SP_GNL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../42SP_Libft" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../42SP_PRINTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DigitalBank" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrigamidCourses" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrigamidReact" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../printf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2588YfWpk4Dk3CkoeirFDNYxJWH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Strategy" />
+      <recent name="dio.br" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test (2)">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="dio.br.Main" />
+      <module name="designPatterns-JAVA" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strategy.Test" />
+      <module name="designPatterns-JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Facade.Test" />
+      <module name="designPatterns-JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Facade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Singleton.Test" />
+      <module name="designPatterns-JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Test (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51c58602-2bda-4da3-85ee-26e08f500f4d" name="Changes" comment="" />
+      <created>1644897404435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644897404435</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first Commit" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+</project>
